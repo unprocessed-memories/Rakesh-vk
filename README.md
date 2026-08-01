@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi, I'm Rakesh 👋
 
-<!--
-**Rakesh-vk/Rakesh-vk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software Engineer with 5 years of experience building backend applications using Java and Spring Boot.
 
-Here are some ideas to get you started:
+## Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Java
+- Spring Boot
+- Microservices
+- REST APIs
+- Hibernate
+- JPA
+- SQL
+- MySQL
+- Git
+- Maven
+
+## Currently Working On
+
+- Study Tracker
+- DSA
+- System Design
+
+## Connect
+
+- LinkedIn: https://linkedin.com/in/rakesh-kuratti
